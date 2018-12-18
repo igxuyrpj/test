@@ -4,3 +4,4 @@ ocalhost
 ocalhost
 ocalhostocalhost
 ocalhost
+添加了忽略文件
